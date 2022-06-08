@@ -1,1 +1,1 @@
-const cameraBox = document.querySelector(".camera-box");
+const cameraBox = document.querySelector('video');
